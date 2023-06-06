@@ -1,2 +1,4 @@
 wash clothes
 clean
+hi
+hello
